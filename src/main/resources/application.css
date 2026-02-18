@@ -1,0 +1,28 @@
+/* application.css */
+.label {
+    font-size: 14px;
+    -fx-text-fill: #333;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;
+}
+
+.bold-underline {
+    -fx-font-weight: bold;    /* Negrita */
+    -fx-underline: true;      /* Subrayado */
+}
+
+.table-cell {
+    -fx-alignment: CENTER;  /* Centra el contenido en las celdas */
+}
+
+.label-counter {
+    -fx-background-color: black;        /* Fondo negro */
+    -fx-text-fill: #00FF00;                /* Texto verde */
+    -fx-font-size: 24px;                 /* Tamaño de la fuente */
+    -fx-padding: 3px;                   /* Relleno interno */
+
+}

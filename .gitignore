@@ -1,0 +1,27 @@
+# .gitignore for Java/Maven/IntelliJ
+target/
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# OS/editor noise
+*.log
+*.tmp
+*.swp
+
+# Java/packaging
+*.class
+*.jar
+*.war
+
+# Maven Wrapper
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml.versionsBackup
+
+# Local file to ignore
+prini-tino.json
